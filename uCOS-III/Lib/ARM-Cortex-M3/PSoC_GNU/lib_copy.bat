@@ -1,0 +1,1 @@
+copy %cd%\uCOS-III-LIB.cylib\ARM_CM3-GCC_421\Debug\uCOS-III-LIB.a  uCOS-III-ARM-Cortex-M3.a
