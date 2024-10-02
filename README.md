@@ -12,3 +12,6 @@ Modify the Project Template so that each colour chanels of the RGBLED U6 is cont
 
 # Hardware Overview
 The switch S1 must be set to “BTN”. 
+
+# Achieved Points
+8 / 10
